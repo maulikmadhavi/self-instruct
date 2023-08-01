@@ -127,4 +127,5 @@ if __name__ == '__main__':
                             ["instruction", "is_classification"]
                         )
                     fout.write(json.dumps(data, ensure_ascii=False) + "\n")
+                    print(data)
             progress_bar.update(len(batch))

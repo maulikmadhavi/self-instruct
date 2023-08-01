@@ -1,0 +1,67 @@
+{"instruction": "Write a function to reverse a string in python. show your steps.", "is_classification": " No"}
+{"instruction": "Give me the value of x.", "is_classification": " No"}
+{"instruction": "What is the meaning of life?", "is_classification": " No"}
+{"instruction": "A user wants to buy a computer from you, and he/she asks for your recommendation. what would be your response?", "is_classification": " No"}
+{"instruction": "Give me the set of all possible legal moves in tic-tac-toe.", "is_classification": " No"}
+{"instruction": "Tell me about yourself!", "is_classification": " No"}
+{"instruction": "The following email has been flagged as spam by many people. please identify why it is considered spam.", "is_classification": " Yes"}
+{"instruction": "Write a python code that reads from the standard input and outputs the number of words in it, one word per line.", "is_classification": " No"}
+{"instruction": "Write a python function which returns true if the given sentence is grammatically correct or false otherwise.", "is_classification": " Yes"}
+{"instruction": "You are writing an essay about some topic. describe your process of creating the essay.", "is_classification": " No"}
+{"instruction": "How would you explain a technical concept to a 5 year old?", "is_classification": " No"}
+{"instruction": "Explain how to use the following library/module/framework to solve a problem.", "is_classification": " No"}
+{"instruction": "Write a series of tweets to advertise your product.", "is_classification": " No"}
+{"instruction": "Given a list of numbers, write a function that finds the average of all the numbers in the list.", "is_classification": " No"}
+{"instruction": "Find the sum of the digits of the number 64521.", "is_classification": " No"}
+{"instruction": "Write a story with 10 sentences and each sentence must have exactly one of the following words: \"love\", \"hate\", \"hope\" or \"fear\".", "is_classification": " No"}
+{"instruction": "You need to come up with an idea for a new invention.", "is_classification": " No"}
+{"instruction": "Explain how you would design a system to detect fraudulent activity.", "is_classification": " No"}
+{"instruction": "How can the company improve its customer service?", "is_classification": " No"}
+{"instruction": "Write down your goals for this year and next 5 years.", "is_classification": " No"}
+{"instruction": "How do we solve the problem of identity theft?", "is_classification": " No"}
+{"instruction": "What is your view on diversity in the workplace?", "is_classification": " No"}
+{"instruction": "Create a python program that will calculate all possible combinations of 4 digits from 0000 to 9999.", "is_classification": " No"}
+{"instruction": "What are some things you like about your current job?", "is_classification": " No"}
+{"instruction": "Explain what does the following statement mean? \"the first thing to do when you see something that works is figure out how it works.\"", "is_classification": " No"}
+{"instruction": "Write a function that finds the square root of a given number using only multiplication and addition.", "is_classification": " No"}
+{"instruction": "Given an integer, write a function that returns true if it is odd or false otherwise.", "is_classification": " No"}
+{"instruction": "What do you think about the following quote: \"one should always strive to increase their knowledge.\" explain your answer in detail.", "is_classification": " No"}
+{"instruction": "Do you agree with the statement below? if yes, explain why. if no, explain why not. \"it's better to have tried and failed than never to have tried at all.\"", "is_classification": " Yes"}
+{"instruction": "Is there anything you believe but cannot prove? explain why you believe it.", "is_classification": " No"}
+{"instruction": "Give an example of how python can be used for good purposes.", "is_classification": " No"}
+{"instruction": "Write a function that outputs the following table.", "is_classification": " No"}
+{"instruction": "Write a function that takes in a sentence and output whether it is positive or negative sentiment.", "is_classification": " Yes"}
+{"instruction": "Given an article, extract all nouns and verbs from the article. then write a program to count how many times each word appears.", "is_classification": " No"}
+{"instruction": "Write a function that generates a random name for people. the name should have 2 words with at least 3 characters.", "is_classification": " No"}
+{"instruction": "A computer can be defined as: hardware + software + data. write a program that counts the number of hardware, software, and data in your room.", "is_classification": " No"}
+{"instruction": "Write a function that returns true if there are more than 10 instances of the given string in the text.", "is_classification": " No"}
+{"instruction": "How would you make a robot walk?", "is_classification": " No"}
+{"instruction": "What is the best way to organize your closet?", "is_classification": " No"}
+{"instruction": "You are writing a book about a fictional character. write one page of this book.", "is_classification": " No"}
+{"instruction": "Given a list of words, output the most common word.", "is_classification": " Yes"}
+{"instruction": "Given a sentence, tell me if it is positive or negative. here is an example: the quick brown fox jumps over the lazy dog. is this sentence positive or negative?", "is_classification": " Yes"}
+{"instruction": "Tell me if the following email has spelling errors and grammar mistakes.", "is_classification": " No"}
+{"instruction": "Generate a name with at least 2 syllables and 3 letters.", "is_classification": " No"}
+{"instruction": "Generate a series of numbers from 1 to 100. each number should have only 4 digits.", "is_classification": " No"}
+{"instruction": "Given a line segment, output whether it is a ray or not. a ray can be defined as having exactly one endpoint and no start point.", "is_classification": " Yes"}
+{"instruction": "Create a program that can generate random passwords.", "is_classification": " No"}
+{"instruction": "Write an algorithm for finding the most suitable candidate for the job position.", "is_classification": " No"}
+{"instruction": "Tell me about your biggest mistake and how you fixed it.", "is_classification": " No"}
+{"instruction": "What is your opinion on this article? (it's related to java)", "is_classification": " No"}
+{"instruction": "Describe what you know about xss attacks and how to prevent them.", "is_classification": " No"}
+{"instruction": "Design a login system for the company intranet.", "is_classification": " No"}
+{"instruction": "Give some advice to new programmers.", "is_classification": " No"}
+{"instruction": "Tell me what is the relationship between a user and an account.", "is_classification": " No"}
+{"instruction": "Tell me why you think facebook's like button should be on every page of your website?", "is_classification": " No"}
+{"instruction": "How would you describe yourself in one sentence?", "is_classification": " No"}
+{"instruction": "What do you like about our company?", "is_classification": " No"}
+{"instruction": "Give me three words to describe yourself.", "is_classification": " No"}
+{"instruction": "Describe how you deal with conflicts.", "is_classification": " No"}
+{"instruction": "Find the missing number in the following series.", "is_classification": " No"}
+{"instruction": "Find a solution to this equation:", "is_classification": " No"}
+{"instruction": "Find the sum of all odd numbers between 1 and 1000.", "is_classification": " No"}
+{"instruction": "What is the third term of the sequence below?", "is_classification": " No"}
+{"instruction": "Which word means the same as \"difficult\"?", "is_classification": " Yes"}
+{"instruction": "Write the antonym for the following words.", "is_classification": " No"}
+{"instruction": "Tell me what’s wrong with this code.", "is_classification": " No"}
+{"instruction": "What are the most popular movies of 2016?", "is_classification": " No"}
